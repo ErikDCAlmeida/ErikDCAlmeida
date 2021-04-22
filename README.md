@@ -35,19 +35,19 @@
 <img height="30px"/>
 
 <p align="center">
-  <a href="mailto:erikdcalmeida@gmail.com" target="_blank">
+  <a href="mailto:erikdcalmeida@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=3f72af&color=112d4e&link=mailto:erikdcalmeida@gmail.com" alt="Erik's gmail" width="65px"/>
   </a>
-  <a href="https://www.linkedin.com/in/erikdcalmeida" target="_blank">
+  <a href="https://www.linkedin.com/in/erikdcalmeida" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Linkedin-c14438?style=flat&logo=Linkedin&logoColor=3f72af&color=112d4e&link=https://www.linkedin.com/in/erikdcalmeida"           alt="Erik's linkedin" width="80px"/>
   </a>
-  <a href="https://app.rocketseat.com.br/me/erikdcalmeida" target="_blank">
+  <a href="https://app.rocketseat.com.br/me/erikdcalmeida" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-RocketSeat-c14438?style=flat&logoColor=3f72af&color=112d4e&link=https://app.rocketseat.com.br/me/erikdcalmeida" alt="Erik's gmail" width="80px"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-erikdcalmeida.vercel.app" target="_blank">
+  <a href="https://portfolio-erikdcalmeida.vercel.app" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-PORTFÓLIO-c14438?style=flat&logo=Netlify&logoColor=3f72af&color=112d4e&size=50&link=https://www.linkedin.com/in/erikdcalmeida" width="200px"/>
   </a>
 </p>
