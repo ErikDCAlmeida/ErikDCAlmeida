@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-erikdcalmeida.netlify.app">
+  <a href="https://portfolio-erikdcalmeida.vercel.app">
     <img src="https://img.shields.io/badge/-PORTFÓLIO-c14438?style=flat&logo=Netlify&logoColor=3f72af&color=112d4e&size=50&link=https://www.linkedin.com/in/erikdcalmeida" width="200px"/>
   </a>
 </p>
