@@ -18,6 +18,8 @@
   </span>
 </p>
 
+[![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ErikDCAlmeida&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/ErikDCAlmeida)
+
 <img height="30px"/>
 
 <p align="center">
