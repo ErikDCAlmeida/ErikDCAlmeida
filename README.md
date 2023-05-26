@@ -18,8 +18,6 @@
   </span>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErikDCAlmeida&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img height="30px"/>
 
 <p align="center">
